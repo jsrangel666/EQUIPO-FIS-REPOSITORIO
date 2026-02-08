@@ -34,3 +34,18 @@ Notas, reflexiones, avances, fechas importantes.
 
 De esta forma, LUMEN se convierte en una bitácora viva, que evoluciona con el usuario.
 
+##### Sugestión de uso:
+1. Inicia la aplicación
+
+2. Crea tu gesto de acceso personal
+
+3. Accede a tu mapa visual
+
+4. Agrega ideas, metas o proyectos
+
+5. Conecta conceptos y registra tu proceso
+
+6. Guarda tu progreso y continúa explorando
+
+No existe una única forma correcta de usar LUMEN, cada usuario construye su propio camino.
+
